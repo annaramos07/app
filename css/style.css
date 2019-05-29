@@ -1,0 +1,11 @@
+.list h5{
+	margin: 0;
+}
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+}
+.coffee .card-header{
+	padding:0;
+}
